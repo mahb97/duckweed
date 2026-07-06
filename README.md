@@ -73,6 +73,6 @@ To reproduce the analysis, export the thread yourself. Don't be Zurich.
 
 ## Roadmap
 
-- [ ] clustering linguaoracle's replies by parent comment; measureing within-cluster vs cross-cluster reuse explicitly
+- [ ] clustering linguaoracle's replies by parent comment: measuring within-cluster vs cross-cluster reuse explicitly
 - [ ] contradiction mining: the AIFGE-CLIO subthread contains ~11 mutually inconsistent answers to one factual question (random init vs. parameters intact) detecting referent instability across an author's replies
 - [ ] optional embedding backend for semantic (not lexical) reuse
